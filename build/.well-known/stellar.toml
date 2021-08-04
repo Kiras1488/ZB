@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCA5YZKG5ULQEBN25II33COO3IQP4A3L3RLT6H5JONRDWNRPPM5RURU3"
+"GC4C536QHPU3ABFJEFGFZVBOQKW5VKSJ5DOTOKJEEXHH4AL354JI6NO7"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Nervos"
-ORG_URL="http://nervos-network.com"
-ORG_DESCRIPTION="The Nervos Network is an open-source public blockchain ecosystem and collection of protocols creating the foundation for a universal internet-like public network"
-ORG_TWITTER="@nervos_network"
-ORG_LOGO="https://i.ibb.co/LRtkj2N/nervos-network-ckb-logo.png"
-ORG_OFFICIAL_EMAIL="contact@nervos.com"
+ORG_NAME="ZB Token"
+ORG_URL="zbtoken.netlify.app"
+ORG_DESCRIPTION="ZB provides OTC trading service to solve the problem of credit transactions between the two buyers and sellers and improve the funds security. You can quickly trade multiple currencies by OTC trading."
+ORG_TWITTER="@ZB_Group"
+ORG_LOGO="https://i.ibb.co/QdYkfgb/zb-token-zb-logo.png"
+ORG_OFFICIAL_EMAIL="contact@zbtoken.com"
 
 
 [[CURRENCIES]]
-code="CKB"
-issuer="GCA5YZKG5ULQEBN25II33COO3IQP4A3L3RLT6H5JONRDWNRPPM5RURU3"
+code="ZB"
+issuer="GC4C536QHPU3ABFJEFGFZVBOQKW5VKSJ5DOTOKJEEXHH4AL354JI6NO7"
 anchor_asset="false"
-name="Nervos"
-desc="CKB is a cryptocurrency that can be used as a secure store of value, like Bitcoin. It can also be a value token behind smart contracts, like ETH. Store, execute, and even rent space on the Nervos Blockchain with CKBytes."
+name="ZB Token"
+desc="ZB is a cryptocurrency that can be used as a secure store of value, like Bitcoin. It can also be a value token behind smart contracts, like ETH. Store, execute, and even rent space on the ZB Blockchain."
 conditions=""
-image="https://i.ibb.co/LRtkj2N/nervos-network-ckb-logo.png"
-fixed_number=100000000
-max_number=100000000
+image="https://i.ibb.co/QdYkfgb/zb-token-zb-logo.png"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-#Nervos was issued using the open and inclusive Stellar blockchain network.
+#ZB Token was issued using the open and inclusive Stellar blockchain network.
